@@ -68,10 +68,6 @@ Algunas decisiones de diseño:
 - **Información secreta:** cada jugador solo recibe los datos de su propio rol.
 - **Privacidad:** política publicada, cuenta eliminable desde la app y declaraciones de Google Play alineadas con lo que realmente hace la app.
 
-## Documentación
-
-Historias de usuario, análisis y diseño, diagramas de secuencia y de estados, DER y mapeo ORM: [Documentacion-Proyecto-Objetos](https://github.com/nachogimenez7/Documentacion-Proyecto-Objetos).
-
 ## Autor
 
 **Ignacio Giménez** · estudiante de Desarrollo de Software · [LinkedIn](https://www.linkedin.com/in/ignaciogimenez7) · [traidores.me](https://www.traidores.me)
