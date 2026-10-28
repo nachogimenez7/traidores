@@ -47,7 +47,9 @@ Juego móvil de **deducción social** para Android. Cada jugador recibe una cart
 Tres mapas (**Pampa**, **Grecia** y **Medieval**), cada uno con su ambientación. Desde 8 jugadores aparecen **roles propios de cada mapa** con una jugabilidad distinta, como el **Payador** y el **Oráculo**, además del **Bufón**, que gana de una forma especial.
 
 <p align="center">
-  <img src="assets/roles.png" width="70%" alt="Roles del juego">
+  <img src="https://www.traidores.me/imagenes/opt/roles-medievales-rol-bufon-medieval.webp" width="28%" alt="Bufón - Feudo de Hierro">
+  <img src="https://www.traidores.me/imagenes/opt/roles-gauchos-rol-payador-gaucho.webp" width="28%" alt="Payador - Pueblo del Interior">
+  <img src="https://www.traidores.me/imagenes/opt/roles-griegos-rol-oraculo-griego.webp" width="28%" alt="Oráculo - Antigua Grecia">
 </p>
 
 ## Lo técnico
